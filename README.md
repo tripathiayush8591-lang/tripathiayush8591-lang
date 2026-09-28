@@ -114,11 +114,9 @@ I like building the parts of a product that make everything else work: APIs, dat
 ## Connect with me
 
 <p align="center">
-  <!-- TODO: Wrap the LinkedIn badge in an anchor once the LinkedIn URL is known. -->
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn link pending" />
+  <a href="https://www.linkedin.com/in/ayush-tripathi-919918388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/tripathiayush8591-lang"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow Ayush on GitHub" /></a>
-  <!-- TODO: Wrap the email badge in a mailto link once the public contact email is confirmed. -->
-  <img src="https://img.shields.io/badge/Email-Say_Hello-30363D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email link pending" />
+  <a href="mailto:tripathi.yash8591@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-30363D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" /></a>
 </p>
 
 ---
