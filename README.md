@@ -27,7 +27,7 @@ I like building the parts of a product that make everything else work: APIs, dat
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&amp;theme=dark" alt="React, Next.js, HTML and CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&amp;theme=dark" alt="React, Next.js, HTML, CSS and Tailwind CSS" /></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
@@ -35,11 +35,11 @@ I like building the parts of a product that make everything else work: APIs, dat
   </tr>
   <tr>
     <td><strong>Data</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,supabase&amp;theme=dark" alt="PostgreSQL and Supabase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&amp;theme=dark" alt="PostgreSQL, Supabase and Firebase" /></td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode&amp;theme=dark" alt="Git, GitHub, Docker and Visual Studio Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,bash,npm&amp;theme=dark" alt="Git, GitHub, Docker, Visual Studio Code, Postman, Linux, Bash and npm" /></td>
   </tr>
 </table>
 
@@ -114,9 +114,11 @@ I like building the parts of a product that make everything else work: APIs, dat
 ## Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-tripathi-919918388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <!-- TODO: Wrap the LinkedIn badge in an anchor once the LinkedIn URL is known. -->
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn link pending" />
   <a href="https://github.com/tripathiayush8591-lang"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow Ayush on GitHub" /></a>
-  <a href="mailto:tripathi.yash8591@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-30363D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" /></a>
+  <!-- TODO: Wrap the email badge in a mailto link once the public contact email is confirmed. -->
+  <img src="https://img.shields.io/badge/Email-Say_Hello-30363D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email link pending" />
 </p>
 
 ---
