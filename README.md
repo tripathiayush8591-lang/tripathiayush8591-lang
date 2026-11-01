@@ -35,7 +35,7 @@ I like building the parts of a product that make everything else work: APIs, dat
   </tr>
   <tr>
     <td><strong>Data</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&amp;theme=dark" alt="PostgreSQL, Supabase and Firebase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,redis,mongodb,sqlite&amp;theme=dark" alt="PostgreSQL, Supabase, Firebase, Redis, MongoDB and SQLite" /></td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
@@ -50,13 +50,9 @@ I like building the parts of a product that make everything else work: APIs, dat
 <table>
   <tr>
     <td width="100%">
-      <h3>CoalTrace <sup>Flagship project</sup></h3>
-      <p>An evidence-backed AI intelligence platform for geological and mining information, built to make complex technical documents easier to search, verify, and trust.</p>
-      <p><strong>Highlights</strong><br />
-      Intelligent document processing · Evidence-backed AI responses · Page- and table-level citations · Mathematical cross-validation · Conflict detection · Human-in-the-loop verification · Multilingual querying</p>
-      <p><strong>Stack</strong><br />
-      <code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Supabase</code> <code>AI / RAG</code></p>
-      <!-- TODO: Add CoalTrace repository and live-demo links here. -->
+      <h3>CivicPulse AI <sup>Flagship project</sup></h3>
+      <p><em>Project details coming soon.</em></p>
+      <!-- TODO: Add CivicPulse AI description, tech stack, repository URL, live-demo URL, and screenshot. -->
     </td>
   </tr>
 </table>
@@ -64,7 +60,7 @@ I like building the parts of a product that make everything else work: APIs, dat
 <table>
   <tr>
     <td width="100%">
-      <h3>Aakaro</h3>
+      <h3>Aakaro <sup>Flagship project</sup></h3>
       <p><em>Project details coming soon.</em></p>
       <p>Add a concise problem-and-outcome description, the core tech stack, repository and live-demo links, plus one strong product screenshot.</p>
       <!-- TODO: Replace this placeholder with Aakaro description, tech stack, repository URL, live-demo URL, and screenshot. -->
@@ -75,11 +71,9 @@ I like building the parts of a product that make everything else work: APIs, dat
 <table>
   <tr>
     <td width="100%">
-      <h3>Facial Expression Meme System</h3>
-      <p>Real-time facial emotion recognition that pairs detected expressions with contextual meme reactions.</p>
-      <p><strong>Stack</strong><br />
-      <code>Python</code> <code>OpenCV</code> <code>TensorFlow</code></p>
-      <p><a href="https://github.com/tripathiayush8591-lang/facial-expression-meme-system"><strong>View repository →</strong></a></p>
+      <h3>BrandSentry <sup>Flagship project</sup></h3>
+      <p><em>Project details coming soon.</em></p>
+      <!-- TODO: Add BrandSentry description, tech stack, repository URL, live-demo URL, and screenshot. -->
     </td>
   </tr>
 </table>
@@ -124,3 +118,4 @@ I like building the parts of a product that make everything else work: APIs, dat
 ---
 
 <p align="center"><sub>Building, testing, learning — then building it better.</sub></p>
+
